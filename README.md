@@ -26,7 +26,7 @@ Bu layihə müasir və dinamik xəbər portalıdır. Portal istifadəçilərə �
 ## ⚙️ Quraşdırma
 1. Layihəni klonlayın:
 ```bash
-git clone https://github.com/istifadeci_adi/xeber-portali.git
+git clone https://github.com/Samil085/XeberPortali.git
 ```
 
 2. Verilənlər bazasını yaradın:
@@ -79,14 +79,3 @@ $db_pass = 'your_password';
 
 ## 📄 Lisenziya
 Bu layihə MIT lisenziyası altında yayımlanıb. Ətraflı məlumat üçün [LICENSE](LICENSE) faylına baxın.
-
-## 📞 Əlaqə
-- Vebsayt: [www.example.az](http://www.example.az)
-- Email: info@example.az
-- Tel: +994 XX XXX XX XX
-
-## 🙏 Təşəkkürlər
-- [Bootstrap](https://getbootstrap.com/)
-- [Swiper](https://swiperjs.com/)
-- [AOS](https://michalsnik.github.io/aos/)
-- Bütün töhfə verənlərə təşəkkür edirik! 
